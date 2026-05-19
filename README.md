@@ -1,8 +1,8 @@
 # EXPERIMENT 05 SOIL MOISTURE SENSOR INTERFACE TO IOT DEVELOPMENT BOARD
 
-# Name : Roop Sagar S L
-# Reg No : 212223040175
-# Dept : B.E / CSE
+## Name : Roop Sagar S L
+## Reg No : 212223040175
+## Dept : B.E / CSE
 
 ## Aim: 
 
